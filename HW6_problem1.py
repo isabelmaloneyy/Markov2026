@@ -1,6 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+# d)
 p = np.array([[0, 1, 0, 0, 0],
               [1/3, 0, 2/3, 0, 0],
               [0, 1/2, 0, 1/2, 0],

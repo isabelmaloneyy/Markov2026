@@ -1,6 +1,7 @@
 import numpy as np
 from scipy.optimize import fsolve
 
+# c)
 f = lambda x: np.exp(2*(x-1)) - x
 
 x_initial = 0.5
